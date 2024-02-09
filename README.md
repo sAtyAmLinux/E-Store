@@ -2,7 +2,7 @@
 
 Welcome to E-Store, an open-source e-commerce website designed to provide users with a seamless online shopping experience. Our platform prioritizes user-friendliness, secure payments, and customizable themes, allowing e-retailers to transform their online presence.
 ## Link
-**https://github.com/sAtyAmLinux/E-Store.git**
+**https://satyamlinux.github.io/E-Store/**
 ## Features
 
 - **User-Friendly Interface**: E-Store offers an intuitive interface for both customers and administrators, making it easy to browse products, make purchases, and manage inventory.
